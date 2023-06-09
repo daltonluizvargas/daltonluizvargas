@@ -2,15 +2,17 @@
 
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=daltonluizvargas&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=daltonluizvargas&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=daltonluizvargas&show_icons=true" />
 </picture>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daltonluizvargas&hide_progress=true&theme=dark)
 
 Meu nome é Dalton Luiz Vargas e sou graduado em Ciência da Computação pela Universidade do Contestado (UnC) de Santa Catarina. Sou apaixonado por Inteligência Artificial, Aprendizagem de Máquina, Visão Computacional e Métodos de Auxílio à Tomada de Decisão. Como instrutor, tenho a oportunidade de compartilhar meus conhecimentos por meio do portal IA Expert e também na plataforma EAD Udemy.
 
