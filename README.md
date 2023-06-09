@@ -4,10 +4,9 @@
     <b>Bem vindo a minha página!</b><br><br>
     <i>
         Eu sou o Dalton L. Vargas.<br>
-        Graduado em Ciência da Computação pela Universidade do Contestado (UnC) de Santa Catarina. <br>
-        Sou um entusiasta da Inteligência Artificial, Aprendizagem de Máquina, Visão Computacional e Métodos de Auxílio à Tomada de Decisão. <br>
+        Sou um entusiasta apaixonado por Inteligência Artificial, Aprendizagem de Máquina, Visão Computacional e Métodos de Auxílio à Tomada de Decisão. <br>
         Atualmente, trabalho em pesquisas relacionadas a essas áreas, buscando soluções inovadoras e eficientes. <br>
-        Aberto a colaborar em projetos interessantes e inovadores.<br>
+        Aberto a colaborar em projetos interessantes e inovadores. <br>
     </i><br>
     <a href="https://br.linkedin.com/in/dalton-luiz-vargas-729344150">
         <img width="100" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
