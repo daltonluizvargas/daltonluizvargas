@@ -20,12 +20,19 @@
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/daltonluizvargas)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://github.com/daltonluizvargas)
+[![Delphi](https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white)](https://github.com/daltonluizvargas)
+[![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://github.com/daltonluizvargas)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/daltonluizvargas)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/daltonluizvargas)
-[![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](ttps://github.com/daltonluizvargas)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](ttps://github.com/daltonluizvargas)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)](ttps://github.com/daltonluizvargas)
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](ttps://github.com/daltonluizvargas)
+
+
 
 ### ML/DL
 ![OpenCV](https://img.shields.io/badge/Opencv-8b1df2?style=for-the-badge&logo=Opencv&logoColor=black)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)
 ![MLFlow](https://img.shields.io/badge/mlflow-black?style=for-the-badge&logo=numpy&logoColor=blue)
