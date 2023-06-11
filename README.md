@@ -74,7 +74,7 @@ Tenho como objetivo ajudar as pessoas a atingirem seus objetivos e resolverem se
 </details>
 
 <p align="center">
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/daltonluizvargas">
     <img src="https://komarev.com/ghpvc/?username=daltonluizvargas&color=blue&style=flat)" />
   </a>
 </p>
