@@ -1,4 +1,4 @@
-<h1 align="center">Olá! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">Olá! <img src="https://github.com/daltonluizvargas" width="28px" alt="👋"></h1>
 
 <p align="center">
     <b>Bem vindo a minha página!</b><br><br>
@@ -48,7 +48,7 @@
   <a href="https://github.com/daltonluizvargas">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=daltonluizvargas&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/daltonluizvargas">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=daltonluizvargas&theme=transparent" />
   </a>
   <a href="https://github.com/daltonluizvargas">
