@@ -1,4 +1,4 @@
-<h1 align="center">Olá! <img src="https://github.com/daltonluizvargas" width="28px" alt="👋"></h1>
+<h1 align="center">Olá! alt="👋"></h1>
 
 <p align="center">
     <b>Bem vindo a minha página!</b><br><br>
